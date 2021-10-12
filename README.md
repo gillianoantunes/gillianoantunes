@@ -1,8 +1,8 @@
-- 👋Olá, eu sou Gilliano Antunes Campos e moro no estado de Minas Gerais,
-- 👀Estou a procura de meu primeiro emprego na área de tecnologia,
+- 👋Olá, eu sou Gilliano Antunes Campos e moro no estado de Minas Gerais.
+- 👀Estou a procura do meu primeiro emprego na área de tecnologia,
 - 🌱sou formado em Tecnologia em Processamento de dados 
 - 💞️e no momento estou fazendo cursos de java para atualização e
-- 📫 dedicando com muita vontade de aprender e conseguir meu objetivo.
+- 📫 com muita vontade e prazer neste aprendizado para conseguir meu objetivo.
     Desde já, agradeço pela oportunidade.
 
 <!---
